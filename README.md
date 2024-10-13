@@ -32,7 +32,7 @@
 
 ## 📚 API Documentation
 
-a Postman collection can be accessed from [here](./Library.postman_collection.json) here. All you need to do is to import the collection.
+A Postman collection can be accessed from [here](./Library.postman_collection.json) here. All you need to do is to import the collection.
 
 ## 💾 Database Schema (ERD)
 
