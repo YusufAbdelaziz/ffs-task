@@ -25,7 +25,7 @@
 ## 🏁 Getting Started
 
 1. Clone the repository
-2. Navigate to the project directory via `cd ./food-delivery-system`
+2. Navigate to the project directory via `cd ./ffs-task`
 3. Make sure you have Docker installed.
 4. Run `docker-compose up --build`.
 5. Access the application at `http://localhost:8080`
