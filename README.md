@@ -17,9 +17,9 @@
 - Java 21
 - Spring Boot 3.3.1
 - Spring Data JPA (Hibernate ORM)
+- MySQL (9.0.1)
 - Maven
 - Jasper Reports
-- MySQL (9.0.1)
 - Flyway for database migrations
 
 ## 🏁 Getting Started
